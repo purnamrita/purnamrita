@@ -3,6 +3,7 @@
 <h3 align="center">A Girl trying to Figure-Out Stuff!!!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
+
 - 📫 How to reach me **purnamrita22@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD:**
