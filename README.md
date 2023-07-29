@@ -1,9 +1,16 @@
+[![MasterHead](https://drive.google.com/file/d/1JwaVn4LnztxqArUSoJfQBFpVi6IhQZIS/view?usp=sharing)](https://github.com/purnamrita)
 <h1 align="center">Hi 👋, I'm Purnamrita Bhattacharjee</h1>
-<!-- <h3 align="center">IIIT Kalyani CSE'25</h3> -->
+<h3 align="center">A Girl trying to Figure-Out Stuff!!!</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
+- 📫 How to reach me **purnamrita22@gmail.com**
+
+- ⚡ Fun fact **I think I am funny XD:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/purnamrita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purnamrita" height="30" width="40" /></a>
+  <a href="https://twitter.com/purnamritab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="purnamritab" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/purnamrita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="purnamrita" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/purnamrita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="purnamrita" height="30" width="40" /></a>
 </p>
